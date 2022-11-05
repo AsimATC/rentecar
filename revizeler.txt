@@ -1,0 +1,32 @@
+- araba kategori olacak bölünsün 
+- ürün detay iletişim olsun
+- araç özellik olsun / olsun
+- araç tanım  / olsun
+- araç ekstra  / olsun
+-Seo yap
+--------------
+--cars.html--
+- fiyat olsun
+- baslik olacak 
+- 3özelliği olacka
+- link
+- on yazi
+-iceirk 1
+- icerik 2
+- icerik 3
+- resim galeri  // slider kısmı kısmı az aşşağı çek 
+- ustresim
+----------
+--iletişim--
+İLetişim phpmail olsun
+----------
+--Hakkımızda--
+Hakkımızda paenle bağla
+---------
+--Anasaya--
+php yazılar bağlansın
+-3 ürün olsun
+-hakkımıza yazısıda olsun
+
+
+
